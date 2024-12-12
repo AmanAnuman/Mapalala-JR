@@ -20,7 +20,7 @@ body {
     border: 2px groove blue;
     border-radius: 20px;
     margin-top: 25px;
-    background-color: rgba(255,0,0,0.5);
+    background-color: rgba(0, 255, 55, 0.5);
 }
 
 /* Ensure image adjusts properly */
@@ -38,7 +38,6 @@ body {
 }
 
 p {
-    color: white;
     line-height: 30px;
 }
 
@@ -61,7 +60,10 @@ p {
 }
 
 .box-2 {
-    background-color: rgba(345deg, #f0f0f0, blue);
+    background: green;
+    font-weight: bold;
+    color:black;
+    border-radius: 20px;
 }
 
 @keyframes colorchange {
