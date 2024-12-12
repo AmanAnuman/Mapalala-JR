@@ -19,7 +19,7 @@ body {
     margin: 0 auto; /* Center container */
     border: 2px groove blue;
     border-radius: 20px;
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(255,0,0,0.5);
 }
 
 /* Ensure image adjusts properly */
