@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: Arial, sans-serif;
-    background-image: url('image/bus.jpg');
+    background-image: url('image/bg.jpg');
     background-repeat: no repeat;
     background-size: cover;
     color: #333;
