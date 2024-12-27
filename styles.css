@@ -20,7 +20,7 @@ body {
     border: 2px groove transparent;
     border-radius: 20px;
     margin-top: 25px;
-    background-color: blue;
+    background-image: url('image/bgg.jpg');
 }
 
 /* Ensure image adjusts properly */
