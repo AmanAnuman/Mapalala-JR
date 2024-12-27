@@ -17,7 +17,7 @@ body {
 .container {
     max-width: 90%; /* Limit container width */
     margin: 0 auto; /* Center container */
-    border: 2px groove blue;
+    border: 2px groove transparent;
     border-radius: 20px;
     margin-top: 25px;
     background-color: blue;
